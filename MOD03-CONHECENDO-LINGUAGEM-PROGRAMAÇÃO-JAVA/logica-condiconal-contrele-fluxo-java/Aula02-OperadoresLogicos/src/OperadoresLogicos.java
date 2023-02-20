@@ -28,5 +28,9 @@ public class OperadoresLogicos {
         System.out.println("são verdadeiros? " + ((i1>i2) || (f2<f1)));
         System.out.println("são verdadeiros? " + ((valorI < valorF) && true));
 
+        System.out.println("\n");
+        System.out.println("Exercícios realizados com sucesso !!!");
+
+
     }
 }
