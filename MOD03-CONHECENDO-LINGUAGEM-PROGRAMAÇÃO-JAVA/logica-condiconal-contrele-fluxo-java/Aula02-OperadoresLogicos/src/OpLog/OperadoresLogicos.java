@@ -1,3 +1,5 @@
+package OpLog;
+
 public class OperadoresLogicos {
     public static void main(String[] args) {
 
@@ -16,8 +18,8 @@ public class OperadoresLogicos {
         System.out.println("b1 e b2 são verdadeiros? " + (b1 && b2));
         System.out.println("b1 e b3 são verdadeiros? " + (b1 && b3));
 
-        System.out.println("b2 ou b3 são falsos? " + (b2 || b3));
-        System.out.println("b2 ou b4 são falsos? " + (b2 || b4));
+        System.out.println("b2 ou b3 é falsos? " + (b2 || b3));
+        System.out.println("b2 ou b4 é falsos? " + (b2 || b4));
 
         System.out.println("b1 xor b3 são opostos? " + (b1 ^ b3));
         System.out.println("b4 xor b1 são opostos? " + (b4 ^ b1));
@@ -30,6 +32,7 @@ public class OperadoresLogicos {
 
         System.out.println("\n");
         System.out.println("Exercícios realizados com sucesso !!!");
+
 
 
     }
