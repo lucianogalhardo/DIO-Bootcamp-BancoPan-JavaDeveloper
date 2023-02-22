@@ -14,6 +14,7 @@ public class Ex02_Nota {
 
         int nota;
 
+        /*  RESPOSTA LUCIANO, (deu certo, porém o código pode ser mais clean
         while(true){
             System.out.println("Digite a nota do Aluno:");
             nota = scanner.nextInt();
@@ -23,9 +24,21 @@ public class Ex02_Nota {
             } else{
             System.out.println("Nota, inválida, tente novamente!!!");
             }
+        */
 
+        // CORREÇÃO C/ SINTAXE MAIS CLEAN
+        System.out.println("Informe a nota do aluno: ");
+        nota = scanner.nextInt();
 
+        while(nota < 0 || nota > 10){
+            System.out.println("Nota inválida, tente novamente!");
+            nota = scanner.nextInt();
+
+            System.out.println("Nota inválida, tente novamente!");
 
         }
+
+            System.out.println("Nota validada com sucesso!!!");
+
     }
 }
