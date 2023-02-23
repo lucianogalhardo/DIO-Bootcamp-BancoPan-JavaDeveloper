@@ -1,4 +1,4 @@
-package com.dio.exercicios;
+package com.dio.exercicios.loops;
 
 import java.util.Scanner;
 
@@ -38,13 +38,7 @@ public class Ex03_MaiorMenor {
 
         }
 
-        /*
-        media = soma / cont;
-        System.out.println("Maior número: " + num);
-        System.out.println("Soma: " + soma);
-        System.out.println("Média dos números: " + media);
-        System.out.println(cont);
-        */
+
 
 
     }
