@@ -18,7 +18,7 @@ public class Main {
         MeuObj objB = objA;
 
         System.out.println("objA= " + objA + " objB= " + objB);
-        objA.setNum(10);
+        objA.setNum(2);
         System.out.println("objA= " + objA + " objB= " + objB);
     }
 }
