@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0c7768d5-6eff-4728-bd58-7503272d2b9e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/MOD03-CONHECENDO-LINGUAGEM-PROGRAMAÇÃO-JAVA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MOD03-01Curso-Dominando-IDEs-Java/primeiro-programa-intellij/primeiro-programa-intellij.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MOD03-03-logica-condiconal-contrele-fluxo-java/Aula01-OperadoresRelacionais/Aula01-OperadoresRelacionais.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MOD03-03-logica-condiconal-contrele-fluxo-java/Aula02-OperadoresLogicos/Aula02-OperadoresLogicos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MOD03-04-estruturas-repeticao-arrays-java/loops-e-arrays/loops-e-arrays.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/projeto/atribuicaoreferencia/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/projeto/atribuicaoreferencia/MeuObj.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Curso-Dominando-IDEs-Java/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Curso-Dominando-IDEs-Java/primeiro-programa-intellij/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Curso-Dominando-IDEs-Java/primeiro-programa-intellij/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Curso-Dominando-IDEs-Java/primeiro-programa-intellij/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Curso-Dominando-IDEs-Java/primeiro-programa-intellij/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Curso-Dominando-IDEs-Java/primeiro-programa-intellij/out/production/primeiro-programa-intellij/com/dio/Livro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Curso-Dominando-IDEs-Java/primeiro-programa-intellij/out/production/primeiro-programa-intellij/com/dio/PrimeiroProgramaIntellij.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Curso-Dominando-IDEs-Java/primeiro-programa-intellij/out/production/primeiro-programa-intellij/com/dio/model/Gato.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Curso-Dominando-IDEs-Java/primeiro-programa-intellij/primeiro-programa-intellij.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Curso-Dominando-IDEs-Java/primeiro-programa-intellij/src/com/dio/PrimeiroProgramaIntellij.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Curso-Dominando-IDEs-Java/primeiro-programa-intellij/src/com/dio/model/Gato.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Curso-Dominando-IDEs-Java/primeiro-programa-java/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Curso-Dominando-IDEs-Java/primeiro-programa-java/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Curso-Dominando-IDEs-Java/primeiro-programa-java/.metadata/.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Curso-Dominando-IDEs-Java/primeiro-programa-java/.metadata/.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Curso-Dominando-IDEs-Java/primeiro-programa-java/.metadata/.plugins/org.eclipse.core.resources/.projects/.org.eclipse.egit.core.cmp/.location" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Curso-Dominando-IDEs-Java/primeiro-programa-java/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/history.version" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Curso-Dominando-IDEs-Java/primeiro-programa-java/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Curso-Dominando-IDEs-Java/primeiro-programa-java/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.version" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Curso-Dominando-IDEs-Java/primeiro-programa-java/.metadata/.plugins/org.eclipse.core.resources/.root/1.tree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Curso-Dominando-IDEs-Java/primeiro-programa-java/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Curso-Dominando-IDEs-Java/primeiro-programa-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Curso-Dominando-IDEs-Java/primeiro-programa-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Curso-Dominando-IDEs-Java/primeiro-programa-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Curso-Dominando-IDEs-Java/primeiro-programa-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.launching.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Curso-Dominando-IDEs-Java/primeiro-programa-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Curso-Dominando-IDEs-Java/primeiro-programa-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jsch.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Curso-Dominando-IDEs-Java/primeiro-programa-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jst.j2ee.webservice.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Curso-Dominando-IDEs-Java/primeiro-programa-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.m2e.discovery.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Curso-Dominando-IDEs-Java/primeiro-programa-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Curso-Dominando-IDEs-Java/primeiro-programa-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.navigator.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Curso-Dominando-IDEs-Java/primeiro-programa-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Curso-Dominando-IDEs-Java/primeiro-programa-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Curso-Dominando-IDEs-Java/primeiro-programa-java/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Curso-Dominando-IDEs-Java/primeiro-programa-java/.metadata/.plugins/org.eclipse.egit.core/.org.eclipse.egit.core.cmp/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Curso-Dominando-IDEs-Java/primeiro-programa-java/.metadata/.plugins/org.eclipse.egit.core/.org.eclipse.egit.core.cmp/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Curso-Dominando-IDEs-Java/primeiro-programa-java/.metadata/.plugins/org.eclipse.jdt.core/1865797976.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Curso-Dominando-IDEs-Java/primeiro-programa-java/.metadata/.plugins/org.eclipse.jdt.core/assumedExternalFilesCache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Curso-Dominando-IDEs-Java/primeiro-programa-java/.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Curso-Dominando-IDEs-Java/primeiro-programa-java/.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Curso-Dominando-IDEs-Java/primeiro-programa-java/.metadata/.plugins/org.eclipse.jdt.core/javaLikeNames.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Curso-Dominando-IDEs-Java/primeiro-programa-java/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Curso-Dominando-IDEs-Java/primeiro-programa-java/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Curso-Dominando-IDEs-Java/primeiro-programa-java/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Curso-Dominando-IDEs-Java/primeiro-programa-java/.metadata/.plugins/org.eclipse.jdt.launching/.install.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Curso-Dominando-IDEs-Java/primeiro-programa-java/.metadata/.plugins/org.eclipse.jdt.launching/libraryInfos.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Curso-Dominando-IDEs-Java/primeiro-programa-java/.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Curso-Dominando-IDEs-Java/primeiro-programa-java/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Curso-Dominando-IDEs-Java/primeiro-programa-java/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Curso-Dominando-IDEs-Java/primeiro-programa-java/.metadata/.plugins/org.eclipse.m2e.core/workspaceState.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Curso-Dominando-IDEs-Java/primeiro-programa-java/.metadata/.plugins/org.eclipse.m2e.logback/0.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Curso-Dominando-IDEs-Java/primeiro-programa-java/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.1.0.20221015-0744.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Curso-Dominando-IDEs-Java/primeiro-programa-java/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Curso-Dominando-IDEs-Java/primeiro-programa-java/.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Curso-Dominando-IDEs-Java/primeiro-programa-java/.metadata/.plugins/org.eclipse.tips.ide/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Curso-Dominando-IDEs-Java/primeiro-programa-java/.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Curso-Dominando-IDEs-Java/primeiro-programa-java/.metadata/.plugins/org.eclipse.ui.intro/introstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Curso-Dominando-IDEs-Java/primeiro-programa-java/.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Curso-Dominando-IDEs-Java/primeiro-programa-java/.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Curso-Dominando-IDEs-Java/primeiro-programa-java/.metadata/version.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Curso-Dominando-IDEs-Java/primeiro-programa-java/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Curso-Dominando-IDEs-Java/primeiro-programa-java/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Curso-Dominando-IDEs-Java/primeiro-programa-java/src/com/dio/PrimeiroPrograma.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Curso-Dominando-IDEs-Java/primeiro-programa-java/src/com/dio/calculadora/Calculadora.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Curso-Dominando-IDEs-Java/primeiro-programa-java/src/com/dio/model/Gato.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../logica-condiconal-contrele-fluxo-java/Aula01-OperadoresRelacionais/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../logica-condiconal-contrele-fluxo-java/Aula01-OperadoresRelacionais/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../logica-condiconal-contrele-fluxo-java/Aula01-OperadoresRelacionais/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../logica-condiconal-contrele-fluxo-java/Aula01-OperadoresRelacionais/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../logica-condiconal-contrele-fluxo-java/Aula01-OperadoresRelacionais/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../logica-condiconal-contrele-fluxo-java/Aula01-OperadoresRelacionais/Aula01-OperadoresRelacionais.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../logica-condiconal-contrele-fluxo-java/Aula01-OperadoresRelacionais/out/production/Aula01-OperadoresRelacionais/OperadoresRelacionais.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../logica-condiconal-contrele-fluxo-java/Aula01-OperadoresRelacionais/src/OperadoresRelacionais.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../logica-condiconal-contrele-fluxo-java/Aula02-OperadoresLogicos/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../logica-condiconal-contrele-fluxo-java/Aula02-OperadoresLogicos/.idea/git_toolbox_prj.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../logica-condiconal-contrele-fluxo-java/Aula02-OperadoresLogicos/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../logica-condiconal-contrele-fluxo-java/Aula02-OperadoresLogicos/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../logica-condiconal-contrele-fluxo-java/Aula02-OperadoresLogicos/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../logica-condiconal-contrele-fluxo-java/Aula02-OperadoresLogicos/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../logica-condiconal-contrele-fluxo-java/Aula02-OperadoresLogicos/Aula02-OperadoresLogicos.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../logica-condiconal-contrele-fluxo-java/Aula02-OperadoresLogicos/out/production/Aula02-OperadoresLogicos/OperadoresLogicos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../logica-condiconal-contrele-fluxo-java/Aula02-OperadoresLogicos/src/OperadoresLogicos.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2MLOw6AvjmXuUdqm6Jm5t7D5MiH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c7768d5-6eff-4728-bd58-7503272d2b9e" name="Changes" comment="" />
+      <created>1677543631863</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677543631863</updated>
+    </task>
+    <servers />
+  </component>
+</project>
