@@ -1,0 +1,45 @@
+Curso Introdutório Collections Java
+Resolução dos exercícios propostos CURSO INTRODUTÓRIO COLLECTIONS FRAMEWORK JAVA . Curso este que tive a honra de co-criar com a plataforma de cursos online DIGITAL INNOVATION ONE 🧡💛e disponibilizado de forma gratuita para a comunidade dos desenvolvedores Java.
+
+⚠️Não estou disponibilizando o link direto para o curso, já que o mesmo faz parte da trilha de alguns Bootcamps como por exemplo da GFT. Logo, você terá que se matricular no Bootcamp para ter acesso ao curso. ⚠️
+
+Lista • Conjunto • Mapa • API de fluxo
+👍 Todos os exercícios resolvidos 👍
+
+🛑Pré-requistos
+Java JDK 11
+IDE IntelliJ
+Conhecer a sintaxe Java
+Noção acerca do Paradigma de Programação Orientada a Objeto
+Disposição para estudar
+📚Ementa
+🔸 Visão geral Java Collections Framework e autoridade
+
+🔸 List
+Coleção com iterações ordenadas List
+Conhecendo os métodos
+Ordenação da coleção List
+
+🔸 Set
+Coleção com singularidade Set
+Conhecendo os métodos
+Ordenação da coleção Set
+
+🔸 Map
+Coleção de pares Map
+Conhecendo os métodos
+Ordenação de Map
+
+🔸 Stream API
+Visão geral Classe Anônima - Functional Interface - Lambda - Method Reference
+Stream API
+Conhecendo as operações
+
+🤝Contribuindo
+Este repositório foi criado para fins de estudo, então contribua com ele. Se te ajudari de alguma forma, ficarei feliz em saber. E caso você conheça alguém que se identifique com o conteúdo, não deixe de compatibilizar.
+
+Se possível
+
+⭐️ estrela o projeto
+
+🐛Encontrar e relatar problemas

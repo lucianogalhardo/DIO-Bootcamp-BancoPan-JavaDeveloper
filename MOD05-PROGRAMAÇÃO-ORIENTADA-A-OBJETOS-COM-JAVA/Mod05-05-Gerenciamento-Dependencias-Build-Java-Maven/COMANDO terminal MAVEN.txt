@@ -1,0 +1,4 @@
+Comando utilizado no terminal do windows para criação do projeto em maven:
+
+
+mvn archetype:generate -DgroupId=one.digitalinnovation -DartifactId=quick-start-maven -Darchetype=maven-archetype-quickstart -DinteractiveMode=false
